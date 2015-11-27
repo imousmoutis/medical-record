@@ -1,0 +1,72 @@
+#container {
+background-color: #D4D4D4;
+margin: 0px auto;
+padding-right:24px;
+padding-left:24px;
+}
+
+#maintext{
+  margin-left:200px;
+}
+
+#leftnav
+{
+  float: left;
+  width: 200px;
+  height:400px;
+  padding: 2em; 
+  background-image:url(http://www.xda-wallpapers.com/file/11269/750x488/16:9/square-blue-math_17343.jpg); 
+  margin-top: -20px;
+}
+
+
+#pageNav{
+  float:left;   
+  width:190px;
+  padding: 0px;
+  font: small Verdana,sans-serif;
+  margin-top: 0px;
+}
+
+
+#sectionLinks{
+  margin: 0px;
+  padding: 0px; 
+  background-image:url(box8.jpg); 
+}
+
+
+#sectionLinks h3{
+  padding: 10px 0px 2px 10px;
+  border-bottom: 1px solid #cccccc;
+}
+
+#sectionLinks a:link, #sectionLinks a:visited { 
+  display: block;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+
+  font-weight: bold;
+  padding: 3px 0px 3px 10px;
+ color:black;
+  text-decoration: none;
+}
+
+
+#dd{ 
+  display: block
+
+  font-weight: bold;
+  padding: 3px 0px 3px 10px;
+ color:black;
+  text-decoration: none;
+}
+
+
+#sectionLinks a:hover{
+  border-top: 1px solid #cccccc;
+  background-color: #DDEEFF;
+  background-image: none;
+  font-weight: bold;
+  text-decoration: none;
+}
